@@ -1,0 +1,6 @@
+git init
+git status
+git add filename
+git commit -m "message to be sent as notification".
+git remote add origin https://github.com/saisreekar31/git-tuts.git
+
